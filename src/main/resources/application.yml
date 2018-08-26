@@ -1,0 +1,15 @@
+spring:
+  profiles: default
+
+pcf:
+  target: https://cfapps.io
+  organization: radhakalyanibavanaro-org
+  space: development
+  application: PcfDemoKal
+  host: pcfdemokal
+  memory: 1GB
+  instances: 1
+  
+    
+    
+    
